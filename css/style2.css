@@ -33,7 +33,6 @@ nav>.k1{
     .item3 {width:50%; float:left;}
     .item:nth-of-type(2){margin-top:10px;}
 
-    .div>.item4>img { white-space:2px; }
     
     .container{
     width:1600px;
@@ -180,7 +179,6 @@ nav>.k1{
     height:25px;
     position: relative; top:-141PX; right:12px;  
     border: 1px solid #5c5d5f;
-    float:right 20px;
     }
     
     
