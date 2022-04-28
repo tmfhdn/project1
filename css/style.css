@@ -20,7 +20,7 @@ nav {
 
 nav> ul >li {display: inline-block; padding:1em 2em; position:relative;}
 ul li:hover {background: #666;}
-nav>ul>li:hover {background:gold;}
+nav>ul>li:hover {background:gold (248, 246, 246);}
 nav>ul>li:hover ul {display: block;}
 nav>ul>li>ul 
 {
